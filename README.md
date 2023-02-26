@@ -1,1 +1,2 @@
 # ImageNet
+Given an image of a person’s face, the task of classifying the ID of the face is known as face classification. The input to your system will be a face image and you will have to predict the ID of the face. The ground truth will be present in the training data and the network will be doing an Multi-class Classification to get the prediction. You are provided with a validation set for fine-tuning your model.
